@@ -1,0 +1,9 @@
+<div class="start">
+	<?php if($_SESSION['login'] !== true): ?>
+		<span><a class="c_p" onclick="location.href='<?=$ur?>'">Начать играть</a></span>
+	<?php else: ?>
+		<!-- TODO: Вернуть это, когда будет готов лаунчер-->
+		<!-- <span><a class="c_p" onclick="location.href='<?=$download?>'">Скачать лаунчер</a></span> -->
+
+	<?php endif; ?>
+</div>

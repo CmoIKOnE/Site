@@ -1,0 +1,43 @@
+[30-Apr-2020 14:22:54 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function safesql() on null in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php:180
+Stack trace:
+#0 {main}
+  thrown in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php on line 180
+[30-Apr-2020 14:23:33 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function safesql() on null in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php:203
+Stack trace:
+#0 {main}
+  thrown in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php on line 203
+[01-May-2020 13:41:08 Europe/Moscow] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php on line 314
+[01-May-2020 13:43:10 Europe/Moscow] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php on line 314
+[01-May-2020 13:45:14 Europe/Moscow] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php on line 314
+[01-May-2020 13:47:17 Europe/Moscow] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php on line 312
+[01-May-2020 13:51:30 Europe/Moscow] PHP Fatal error:  Uncaught Error: Unsupported operand types in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php:313
+Stack trace:
+#0 {main}
+  thrown in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php on line 313
+[03-May-2020 16:24:09 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php:378
+Stack trace:
+#0 {main}
+  thrown in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php on line 378
+[03-May-2020 16:26:49 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php:381
+Stack trace:
+#0 {main}
+  thrown in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php on line 381
+[03-May-2020 16:27:14 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php:382
+Stack trace:
+#0 {main}
+  thrown in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php on line 382
+[05-May-2020 18:21:19 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php:379
+Stack trace:
+#0 {main}
+  thrown in /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php on line 379
+[12-Jun-2020 15:19:44 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function connect() on null in /var/www/mcspace.me14/data/www/mcspace.me/panel/panel_team_del_ST.php:9
+Stack trace:
+#0 {main}
+  thrown in /var/www/mcspace.me14/data/www/mcspace.me/panel/panel_team_del_ST.php on line 9
+[25-Jun-2020 22:22:24 Europe/Moscow] PHP Warning:  fsockopen(): unable to connect to :0 (Failed to parse address &quot;&quot;) in /var/www/mcspace.me14/data/www/mcspace.me/rcon.php on line 68
+[25-Jun-2020 22:50:31 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /var/www/mcspace.me14/data/www/mcspace.me/regenGroups.php:7
+Stack trace:
+#0 /var/www/mcspace.me14/data/www/mcspace.me/cnt.php(296): require_once()
+#1 /var/www/mcspace.me14/data/www/mcspace.me/panel/index.php(1): require_once('/var/www/mcspac...')
+#2 {main}
+  thrown in /var/www/mcspace.me14/data/www/mcspace.me/regenGroups.php on line 7

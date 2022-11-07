@@ -1,0 +1,9 @@
+#
+AddDefaultCharset UTF-8
+
+RewriteEngine On
+RewriteBase /
+RewriteRule ^page/(.*)$ index.php?page=$1 [QSA,L]
+RewriteRule ^info/(.*)$ information.php?info=$1 [QSA,L]
+
+
